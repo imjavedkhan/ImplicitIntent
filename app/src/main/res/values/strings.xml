@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="url">URL</string>
+    <string name="open_browser">OPEN BROWSER</string>
+    <string name="city">CITY</string>
+    <string name="open_map">OPEN MAP</string>
+</resources>
